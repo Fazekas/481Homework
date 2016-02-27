@@ -97,7 +97,7 @@ public class Main {
 		else if (playerInput.equalsIgnoreCase("quit"))
 			System.out.println("Exiting the game!");
 		else
-			System.out.println("You did not pick rock, paper, or scissor. Please try again\n");
+			System.out.println("You did not pick rock, paper, Lizard, Spock, or scissor. Please try again\n");
 		}
 		userInput.close();
 	}
